@@ -1,0 +1,7 @@
+com\scm\config\CorsConfig$1.class
+com\scm\model\Contact.class
+com\scm\service\ContactService.class
+com\scm\controller\ContactController.class
+com\scm\repository\ContactRepository.class
+com\scm\config\CorsConfig.class
+com\scm\SmartContactManagerApplication.class
