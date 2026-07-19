@@ -23,7 +23,7 @@ public class CorsConfig {
                         .allowedOrigins(
                                 "http://localhost:5500",
                                 "http://127.0.0.1:5500",
-                                "https://YOUR-FRONTEND-URL.onrender.com"
+                                "https://smartcontactmanager-1-0gcm.onrender.com"
                         )
                         .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
                         .allowedHeaders("*");
