@@ -1,6 +1,6 @@
 // Change this to your deployed backend URL once you deploy it on Render.
 // Example: const API_BASE = "https://scm-backend.onrender.com/api/contacts";
-const API_BASE = "hhttps://smartcontactmanager-sx7j.onrender.com/api/contacts";
+const API_BASE = "https://smartcontactmanager-sx7j.onrender.com/api/contacts";
 
 const form = document.getElementById("contact-form");
 const idField = document.getElementById("contact-id");
